@@ -1,0 +1,130 @@
+[     UTC     ] Logs for mainpy-7v8ihippisaiaqtvjyle4c.streamlit.app/
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[12:42:52] 🖥 Provisioning machine...
+
+[12:42:52] 🎛 Preparing system...
+
+[12:42:52] ⛓ Spinning up manager process...
+
+[12:42:52] 🚀 Starting up repository: 'replit-webpage-repo', branch: 'main', main module: 'main.py'
+
+[12:42:52] 🐙 Cloning repository...
+
+[12:42:52] 🐙 Cloning into '/mount/src/replit-webpage-repo'...
+
+[12:42:52] 🐙 Cloned repository!
+
+[12:42:52] 🐙 Pulling code changes from Github...
+
+[12:42:53] 📦 Processing dependencies...
+
+
+─────────────────────────────────────── poetry ─────────────────────────────────────────
+
+
+/mount/src/replit-webpage-repo /mount/src/replit-webpage-repo
+
+Installing dependencies from lock file
+
+
+Package operations: 37 installs, 0 updates, 0 removals
+
+
+  - Installing attrs (25.4.0)
+
+  - Installing rpds-py (0.30.0)
+
+  - Installing referencing (0.37.0)
+
+  - Installing jsonschema-specifications (2025.9.1)
+
+  - Installing six (1.17.0)
+
+  - Installing markupsafe (3.0.3)
+
+  - Installing smmap (5.0.2)
+
+  - Installing certifi (2025.11.12)
+
+  - Installing jinja2 (3.1.6)
+
+  - Installing charset-normalizer (3.4.4)
+
+  - Installing idna (3.11)
+
+  - Installing gitdb (4.0.12)
+
+  - Installing jsonschema (4.25.1)
+
+  - Installing narwhals (2.13.0)
+
+  - Installing numpy (2.3.5)
+
+  - Installing packaging (25.0)
+
+  - Installing python-dateutil (2.9.0.post0)
+
+  - Installing pytz (2025.2)
+
+  - Installing typing-extensions (4.15.0)
+
+  - Installing tzdata (2025.2)
+
+  - Installing urllib3 (2.6.0)
+
+  - Installing altair (6.0.0)
+
+  - Installing cachetools (6.2.2)
+
+  - Installing protobuf (6.33.2)
+
+  - Installing requests (2.32.5)
+
+  - Installing blinker (1.9.0)
+
+  - Installing gitpython (3.1.45)
+
+  - Installing pillow (12.0.0)
+
+  - Installing pydeck (0.9.1)
+
+  - Installing tornado (6.5.2)
+
+  - Installing pandas (2.3.3)
+
+  - Installing tenacity (9.1.2)
+
+  - Installing toml (0.10.2)
+
+  - Installing pyarrow (22.0.0)
+
+  - Installing watchdog (6.0.0)
+
+  - Installing click (8.3.1)
+
+  - Installing streamlit (1.52.1)
+
+
+Installing the current project: test-1 (0.1.0)
+
+
+Error: The current project could not be installed: No file/folder found for package test-1
+
+If you do not want to install the current project use --no-root.
+
+If you want to use Poetry only for dependency management but not for packaging, you can disable package mode by setting package-mode = false in your pyproject.toml file.
+
+If you did intend to install the current project, you may need to set `packages` in your pyproject.toml file.
+
+
+/mount/src/replit-webpage-repo
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+
+[12:43:02] ❗️ installer returned a non-zero exit code
+
+[12:43:02] ❗️ Error during processing dependencies! Please fix the error and push an update, or try restarting the app.
