@@ -25,4 +25,3 @@ st.area_chart(indiaData) #AreaChart
 
 myslider = st.slider('celsius')
 st.write(myslider, ': in farenheit - ',myslider*9/5+32)
-
